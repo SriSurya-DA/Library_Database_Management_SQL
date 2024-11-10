@@ -42,7 +42,7 @@ Use CTAS to generate new tables from existing data based on specific query resul
 
 ## 1.Database Setup
 
-![ERD]([https://github.com/SriSurya-DA/Library_Database_Management_SQL/blob/main/library_erd.png](https://github.com/SriSurya-DA/Library_Database_Management_SQL/blob/main/Database%20Setup.png))
+![ERD](https://github.com/SriSurya-DA/Library_Database_Management_SQL/blob/main/Database%20Setup.png)
 
 ## 2. Table Creation
 
